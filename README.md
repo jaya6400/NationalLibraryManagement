@@ -1,6 +1,6 @@
 # NationalLibraryManagement
 Created a National Library Management System
-(https://photos.app.goo.gl/9PW6u4SXLKYt34CN9)
+(Link of Presentation - https://drive.google.com/file/d/1T2qefEI-6Wvb7_pzDvCR8o64vBaxVahw/view?usp=sharing)
 
 Tech Stack - Java(Swing Awt)
 
